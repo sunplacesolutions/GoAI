@@ -1,6 +1,7 @@
+![go Logo](go.webp)
 # GoAI
-Go Auto Installer
-Script para Automatizar Todo el Proceso.. 
+# Go Auto Installer
+# Script para Automatizar Todo el Proceso.. 
 Elimina todo lo que tengamos de Go y Descarga en este caso la Version 1.21 y la Instala !! 
 
 1) Guarda el script:
